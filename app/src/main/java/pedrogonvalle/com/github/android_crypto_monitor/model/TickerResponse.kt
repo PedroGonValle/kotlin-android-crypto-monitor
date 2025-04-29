@@ -1,4 +1,4 @@
-package pedrogonvalle.com.github.android_crypto_monitor
+package pedrogonvalle.com.github.android_crypto_monitor.model
 
 class TickerResponse (
     val ticker: Ticker
